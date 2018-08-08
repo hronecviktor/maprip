@@ -1,6 +1,6 @@
 # MapRip
 
-####For your map-ripping needs.
+#### For your map-ripping needs.
 
 Rips full-resolution maps from sites using mapbox library, e.g. submarine cable maps
 
