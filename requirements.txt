@@ -7,6 +7,6 @@
 certifi==2018.4.16        # via requests
 chardet==3.0.4            # via requests
 idna==2.7                 # via requests
-pillow==5.2.0
+pillow==6.2.0
 requests==2.19.1
 urllib3==1.23             # via requests
